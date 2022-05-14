@@ -1,0 +1,3 @@
+How to run:
+
+Ensure that the Python scripts are in the same directory as all the training, testing, label, and missing value datasets.  The primary script is main.py, where the actual classification and missing value methods are applied to the datasets.  Due to the time consumption of running all the code at once, each section is commented out with multi-line comments, so for example to run the code for Dataset 1 that section simply needs to be uncommented.
